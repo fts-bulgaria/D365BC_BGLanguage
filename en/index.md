@@ -1,9 +1,11 @@
----
+﻿---
 title: Bulgarian Language pack for Microsoft Dynamics 365 Business Central
 owner: FTS Bulgaria
 redirect_from:
   - /
 ---
+[Terms of use](FTS Standard Agreement.pdf)
+[Ръководство на български](../bg/index.html)
 
 ### Overview
 
@@ -22,4 +24,3 @@ By changing the **Region** to **Bulgarian (Bulgaria)**, date and numbers will be
 ![Switch language](/media/image1.png){: width="640"}
 
 
-[Ръководство на български](../bg/index.html)

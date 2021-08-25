@@ -4,6 +4,8 @@ owner: ФТС България
 redirect_from:
 
 ---
+[Условия за ползване](FTS Standard Agreement.pdf)
+[English manual](../en/index.html)
 
 ### Въведение
 
@@ -20,6 +22,3 @@ redirect_from:
 Сменяйки **Region** на **Bulgarian (Bulgaria)**, датите и числата ще се форматират на български.
 
 ![Switch language](/media/image1.png){: width="640"}
-
-
-[English manual](../en/index.html)
