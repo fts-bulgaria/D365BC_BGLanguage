@@ -1,11 +1,11 @@
-﻿---
+---
 title: Пакет Български език за Microsoft Dynamics 365 Business Central
 owner: ФТС България
 redirect_from:
 
 ---
-[Условия за ползване](FTS Standard Agreement.pdf)
-[English manual](../en/index.html)
+[Условия за ползване](FTS Standard Agreement.pdf)  
+[English manual](../en/index.html)  
 
 ### Въведение
 
