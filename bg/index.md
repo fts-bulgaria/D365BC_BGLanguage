@@ -4,7 +4,7 @@ owner: ФТС България
 redirect_from:
 
 ---
-[Условия за ползване](FTS Standard Agreement.pdf)  
+[Условия за ползване](FTS Standard Agreement.pdf)<br/>
 [English manual](../en/index.html)  
 
 ### Въведение
