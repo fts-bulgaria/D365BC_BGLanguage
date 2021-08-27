@@ -4,7 +4,7 @@ owner: FTS Bulgaria
 redirect_from:
   - /
 ---
-[Terms of use](FTS Standard Agreement.pdf)<br/>
+[Terms of use](../FTS Standard Agreement.pdf)<br/>
 [Ръководство на български](../bg/index.html)
 
 ### Overview
